@@ -15,3 +15,10 @@ Available voices:
 
 Example: Forsen: oh shit I'm sorry trump: sorry for what? Lj: i'm a female and what is this?  
 Current default voice: Trump
+
+TTS example: 
+https://i.nuuls.com/q4qDs.mp3
+
+In order: Nina -> Trump -> Gaben -> Obiwan -> Saruman -> Cancer -> Lj -> Forsen -> Vicent
+
+(Trailer voice missing from example)
