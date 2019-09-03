@@ -19,6 +19,6 @@ Current default voice: Trump
 TTS example: 
 https://i.nuuls.com/q4qDs.mp3
 
-In order: Nina -> Trump -> Gaben -> Obiwan -> Saruman -> Cancer -> Lj -> Forsen -> Vicent
+In order: Nina -> Trump -> Gaben -> Obiwan -> Saruman -> Cancer -> Lj -> Forsen -> Vincent
 
 (Trailer voice missing from example)
