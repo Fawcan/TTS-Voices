@@ -1,6 +1,7 @@
 TTS is enabled for donations above $10. The TTS is made by notaistreamer.  
 Special features: Change voice by prefixing text by using name before the text.
-Default is Obama
+
+Default TTS voice: Obama.
 
 *NEW AS OF 13/12*
 - Commander
