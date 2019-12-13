@@ -1,6 +1,13 @@
 TTS is enabled for donations above $10. The TTS is made by notaistreamer.  
 Special features: Change voice by prefixing text by using name before the text.
 
+*NEW AS OF 13/12*
+- Commander
+- Santa
+- Boris
+- Elon
+- Obama
+
 Available voices:
 - Forsen:
 - Trump:
@@ -13,6 +20,8 @@ Available voices:
 - Vincent:
 - Nani:
 
+
+
 Example: Forsen: oh shit I'm sorry trump: sorry for what? Lj: i'm a female and what is this?  
 Current default voice: Trump
 
@@ -21,4 +30,10 @@ https://i.nuuls.com/q4qDs.mp3
 
 In order: Nina -> Trump -> Gaben -> Obiwan -> Saruman -> Cancer -> Lj -> Forsen -> Vincent
 
-(Trailer voice missing from example)
+Missing from example
+Trailer
+Commander
+Santa
+Boris
+Elon
+Obama
