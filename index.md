@@ -10,7 +10,7 @@ Default TTS voice: Obama.
 - Elon
 - Obama
 
-Available voices:
+Other available voices:
 - Forsen:
 - Trump:
 - Gaben:
@@ -32,10 +32,4 @@ https://i.nuuls.com/q4qDs.mp3
 
 In order: Nina -> Trump -> Gaben -> Obiwan -> Saruman -> Cancer -> Lj -> Forsen -> Vincent
 
-Missing from example
-Trailer
-Commander
-Santa
-Boris
-Elon
-Obama
+Missing from example: Trailer, Commander, Santa, Boris, Elon, Obama
