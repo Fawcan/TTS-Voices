@@ -3,14 +3,13 @@ Special features: Change voice by prefixing text by using name before the text.
 
 Default TTS voice: Obama.
 
-*NEW AS OF 13/12*
+Available voices:
+- Bog
 - Commander
 - Santa
 - Boris
 - Elon
 - Obama
-
-Other available voices:
 - Forsen:
 - Trump:
 - Gaben:
