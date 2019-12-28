@@ -22,13 +22,10 @@ Available voices:
 - Nani:
 
 
-
 Example: Forsen: oh shit I'm sorry trump: sorry for what? Lj: i'm a female and what is this?  
 Current default voice: Trump
 
-TTS example: 
+TTS example of some voices: 
 https://i.nuuls.com/q4qDs.mp3
 
 In order: Nina -> Trump -> Gaben -> Obiwan -> Saruman -> Cancer -> Lj -> Forsen -> Vincent
-
-Missing from example: Trailer, Commander, Santa, Boris, Elon, Obama
