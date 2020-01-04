@@ -4,6 +4,8 @@ Special features: Change voice by prefixing text by using name before the text.
 Default TTS voice: Obama.
 
 Available voices:
+- Sven
+- Bogsen
 - Bog
 - Commander
 - Santa
