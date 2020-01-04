@@ -1,17 +1,20 @@
+This isn't being updated anymore, go to https://tts.forsen.tv/ instead.
+
+
 TTS is enabled for donations above $10. The TTS is made by notaistreamer.  
 Special features: Change voice by prefixing text by using name before the text.
 
 Default TTS voice: Obama.
 
 Available voices:
-- Sven
-- Bogsen
-- Bog
-- Commander
-- Santa
-- Boris
-- Elon
-- Obama
+- Sven:
+- Bogsen:
+- Bog:
+- Commander:
+- Santa:
+- Boris:
+- Elon:
+- Obama:
 - Forsen:
 - Trump:
 - Gaben:
